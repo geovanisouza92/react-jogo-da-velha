@@ -1,0 +1,10 @@
+{
+  "name": "react-jogo-da-velha",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix functions start",
+    "deploy": "firebase deploy"
+  }
+}
